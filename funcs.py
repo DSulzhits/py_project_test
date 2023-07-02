@@ -7,7 +7,7 @@ def summ(a, b):
 
 
 def divide(a, b):
-    c = a - b
-    return c
+    """Функция делает нехорошо"""
+    return a - b
 
 # print(divide(3, 5))
